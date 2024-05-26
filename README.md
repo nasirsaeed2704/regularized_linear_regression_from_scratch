@@ -1,2 +1,2 @@
 # regularized_linear_regression_from_scratch
-A jupyter project that contains an implementation of regularized linear regression through functions implemented in python numpy
+A jupyter project that contains an implementation of regularized linear regression through custom functions implemented in python numpy. This gives insight into how the regularization term lambda, when added to the cost function and in turn to the derivative of the cost function combats overfitting. the gradient descent function remains the same except it takes a turn lambda_ which is the regularization term as well now.
